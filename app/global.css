@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #3b82f6;
+}
+
+:root {
+  background: black;
+  color: white;
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #09090b; /* Zinc 950 */
+}
